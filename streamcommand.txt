@@ -1,0 +1,3 @@
+pscp -P 22 c:\xampp\htdocs\stream\agora-broadcast-client.html root@45.76.253.83:/var/www/html/
+
+Password: t=M5(zXwq1?G?nDn
